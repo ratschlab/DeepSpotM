@@ -1,6 +1,4 @@
-# DeepSpot-M
-
-**DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology.**
+# DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology
 
 [![CI](https://github.com/ratschlab/DeepSpotM/actions/workflows/ci.yml/badge.svg)](https://github.com/ratschlab/DeepSpotM/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/deepspotm)](https://pypi.org/project/deepspotm/)
