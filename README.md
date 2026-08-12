@@ -11,9 +11,17 @@
 [![TCGA atlas](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-TCGA%20atlas-orange)](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas)
 [![HEST Xenium](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-HEST%20Xenium-orange)](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics)
 
-DeepSpot-M was developed by Kalin Nonchev, Sebastian Dawo, Karina Silina, Viktor Hendrik Koelzer, and Gunnar Rätsch.
+**Authors**: Kalin Nonchev, Sebastian Dawo, Karina Silina, Viktor Hendrik Koelzer, and Gunnar Rätsch.
 
-DeepSpot-M is a multimodal foundation model that maps a histology image tile to
+## News
+
+  - [09.2026] Introducing [Aurora](www.auroraomics.org) - a no-code platform for virtual spatial transcriptomics from H&E images. Aurora makes virtual spatial transcriptomics accessible without requiring users to have their own GPUs, with a fully automated workflow designed to ensure that spatial transcriptomics predictions are performed correctly. Try the interactive [Aurora demo](www.auroraomics.org/demo).
+
+
+
+## Do you want to generate virtual spatial transcriptomics data using your H&E images?
+
+We introduce DeepSpot-M, a multimodal foundation model that maps a histology image tile to
 spatial gene expression. It tokenises a 224x224 H&E tile with a LoRA-adapted
 pathology foundation backbone (Midnight) and lets each gene query attend to the
 patch tokens through a cross-attention gene decoder. A gene router hypernetwork
