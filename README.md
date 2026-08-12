@@ -15,7 +15,7 @@ The preprint is available [here](https://doi.org/10.64898/2026.06.19.26356060).
 
 ## News
 
-  - [09.2026] Introducing [Aurora](www.auroraomics.org) - a no-code platform for virtual spatial transcriptomics from H&E images. Aurora makes virtual spatial transcriptomics accessible without requiring users to have their own GPUs, with a fully automated workflow designed to ensure that spatial transcriptomics predictions are performed correctly. Try the interactive [Aurora demo](www.auroraomics.org/demo).
+  - [09.2026] Introducing [Aurora](https://www.auroraomics.org) - a no-code platform for virtual spatial transcriptomics from H&E images. Aurora makes virtual spatial transcriptomics accessible without requiring users to have their own GPUs, with a fully automated workflow designed to ensure that spatial transcriptomics predictions are performed correctly. Try the interactive [Aurora demo](https://www.auroraomics.org/demo).
 
 
 
