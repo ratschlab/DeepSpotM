@@ -11,6 +11,8 @@
 
 **Authors**: Kalin Nonchev, Sebastian Dawo, Karina Silina, Viktor Hendrik Koelzer, and Gunnar Rätsch.
 
+The preprint is available [here](https://doi.org/10.64898/2026.06.19.26356060).
+
 ## News
 
   - [09.2026] Introducing [Aurora](www.auroraomics.org) - a no-code platform for virtual spatial transcriptomics from H&E images. Aurora makes virtual spatial transcriptomics accessible without requiring users to have their own GPUs, with a fully automated workflow designed to ensure that spatial transcriptomics predictions are performed correctly. Try the interactive [Aurora demo](www.auroraomics.org/demo).
@@ -28,8 +30,6 @@ from DNA, RNA, protein, single-cell and text foundation models (Evo 2, Orthrus,
 ProtT5, scGPT, Apertus). Because genes are represented as queryable embeddings
 rather than fixed outputs, one model predicts transcriptome-wide expression and
 genes it never saw during training.
-
-The preprint is available [here](https://doi.org/10.64898/2026.06.19.26356060).
 
 ![DeepSpot-M model overview](assets/model_overview.png)
 
