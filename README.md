@@ -96,9 +96,6 @@ vals = model.predict_genes(tile, ["EPCAM", "CD3D", "PTPRC"])   # (1, 3)
 vals = model.predict_genes(tile, "EPCAM")                       # (1, 1)
 ```
 
-Predicting genes outside this panel requires regenerating the source gene embeddings
-and is not part of this release.
-
 ### Command line
 
 Most users start from a whole-slide image.
