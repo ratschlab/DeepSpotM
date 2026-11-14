@@ -188,6 +188,19 @@ This project uses a split license.
 See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) for the backbone and
 gene-embedding sources, all MIT or Apache-2.0.
 
+## Papers Citing DeepSpot-M
+
+<!-- CITATIONS:START -->
+1. Thomas Batique, Kalin Nonchev, V. Koelzer, and G. Rätsch "Probabilistic uncertainty in virtual spatial transcriptomics from histology is largely redundant with the predicted mean." *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2026.10.23.760875)
+2. Ulysse McConnell, K. Nonchev, V. Koelzer, and G. Rätsch "Slide-level batch structure limits histology-guided supervision of transcriptomic foundation models." *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2026.09.30.755585)
+3. Ting-Jun Chen, and Stephanie C. Hicks "Pretrained gene representations transfer mean expression more broadly than spatial patterns in virtual spatial transcriptomics." *bioRxiv* (2026). [DOI](https://doi.org/10.64898/2026.09.15.751768)
+4. Lucas Ni, Jian-Wen-Jian-Wen-Luo Luo, Wen-Tao Huang, and Chao Chen "GATE-ST: Gene-Aware Text-image Encoder for Spatial Transcriptomics." *arXiv.org* (2026). [DOI](https://doi.org/10.48550/arXiv.2609.38690)
+5. Amos Muench, Jonathan Thielmann, Reduan Achtibat, Maximilian Dreyer, Philip Bischoff, Caroline Forsythe, Hamidreza Parand, Thomas Walter, David Horst, Sebastian Lapuschkin, Wojciech Samek, and Teresa G. Krieger "Concept-based explanation of gene expression prediction from H&E images." *arXiv* (2026). [DOI](https://doi.org/10.48550/arxiv.2608.16669)
+6. Xin Luo, Yi-Cheng Tao, Hao-Xuan Zeng, Su-Yuan Wang, Chen-Zi Ouyang, Meiqing Zhu, Kai Liu, Shui-Bing Chen, and Jie Liu "VOICE: A Vision-Omics Foundation Model Integrating Direct and Retrieval-Based Prediction of In-situ Single-Cell Gene Expression." *arXiv.org* (2026). [DOI](https://doi.org/10.48550/arXiv.2608.08366)
+<!-- CITATIONS:END -->
+
+*This list is automatically updated weekly via [GitHub Actions](.github/workflows/update-citations.yml) using the [Semantic Scholar](https://www.semanticscholar.org/), [OpenAlex](https://openalex.org/) and [OpenCitations](https://opencitations.net/) APIs.*
+
 ## Citation
 
 DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial
